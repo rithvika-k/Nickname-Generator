@@ -1,0 +1,10 @@
+╔═════════════════════════════════════════════════════════════════════════════════╗
+  Advanced Customize Feature!
+
+  -- Would you like to search, add, or delete a nickname from the list generated?
+  Enter 1 to search for a nickname,
+  Enter 2 to add a nickname of choice, 
+  Enter 3 to delete a nickname from the list.
+
+  !! Enter 0 when ready to proceed to play the game !!
+╚═════════════════════════════════════════════════════════════════════════════════╝

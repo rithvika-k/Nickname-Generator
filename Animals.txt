@@ -1,0 +1,10 @@
+Goose
+Pigeon
+Dog
+Cat
+Hamster
+Parrot
+Hedgehog
+Bear
+Chicken
+Fox

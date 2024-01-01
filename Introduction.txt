@@ -1,0 +1,20 @@
+================================================================================
+👾  👥  👑  🐤  🦊  🐸  🐳  🐔  🐷  🦔  👾  👥  👑  🐤  🦊  🐸  🐳  🐔  🐷  🦔  👾  👥  👑  🐤  🦊  🐸  🐳 
+
+                             KAHOOT TRIVIA SIMULATOR
+
+👾  👥  👑  🐤  🦊  🐸  🐳  🐔  🐷  🦔  👾  👥  👑  🐤  🦊  🐸  🐳  🐔  🐷  🦔  👾  👥  👑  🐤  🦊  🐸  🐳 
+================================================================================
+
+Welcome to the Kahoot Trivia Simulator! 
+
+Unlike most trivas, we offer you the ability to pick a funky cool player name
+from our uniquely generated list, and answer world renowed trivia questions.
+Here, you will also be able to add, search, and or delete from our list of
+nicknames to prevent your opponents from chosing a cooler name than you!
+
+Each player will pick a player nickname, and then proceed to answer 5 triva 
+questions. After each question points will be awarded and a scoreboard will be 
+displayed. The objective is to get the most amount of questions right to WIN!
+
+Lets Play!

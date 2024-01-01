@@ -1,0 +1,10 @@
+Round
+Tiny
+Big
+Small
+Chubby
+Enormous
+Loud
+Slow
+Speedy
+Lazy

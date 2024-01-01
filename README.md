@@ -10,9 +10,8 @@ a. A file with 10 adjectives
 b. Another file with 10 adjectives, each different from the first file
 c. A third file with 10 animals
 2. The program generates 25 nicknames by randomly selecting a word from each file,
-then combining them to make the nickname.
-3. The nicknames that are generated should be displayed in alphabetical order, ignoring
+and then combining them to make the nickname.
+3. The nicknames that are generated are displayed in alphabetical order, ignoring
 case sensitivity.
-4. A search function to have the user enter a nickname to see if it was generated.
-5. An option to either add to the list of nicknames or to delete one of the nicknames will be
-the last option.
+4. A search function to allow the user to enter a nickname to see if it was generated.
+5. An option to either add to the list of nicknames or to delete one of the nicknames

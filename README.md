@@ -1,8 +1,7 @@
 # Nickname-Generator
 
-Customized nickname generator. 
+-- Kahoot Triva Simulator (Customized nickname generator).
 
--- Kahoot Triva Simulator 
 The player is given a list of 25 uniquely generated nicknames. The nickname will be made of two adjectives and an animal name. For example, “Crazy Fun
 Puppy” can be one of the nicknames generated. Here, you will 
 also be able to add, search, and or delete from the list of nicknames. Each player
